@@ -1,0 +1,19 @@
+body { padding-top: 50px; padding-left: 50px; padding-right: 50px; font-family: "Roboto", sans-serif;}
+
+header { margin-bottom: 20px; background-color: #ffc04c;}
+
+header h1 { line-height: 1; margin-bottom: 0; }
+
+.row { margin-bottom: 20px;}
+ 
+p { padding-bottom: px;}
+
+.img_wrap { border: 1px solid gray; margin-bottom: 20px; }
+
+.image { width: 100%; }
+
+.img_text { padding: 15px; }
+
+.img_text h3 { margin-top: 0; margin-bottom: 0; }
+
+.img_text p { margin-top: 1; margin-bottom: 0; }
